@@ -8,10 +8,11 @@ Changing file permission
 Changing file permission on a hidden file
 Changing directory permission
 # Tools Used
-Linux 
-chmod
-ls-la
+- Linux
+- chmod
+- ls-la
 # Learning Point
 
-
+# Check file and directory details
+images/ls-la.png
 
