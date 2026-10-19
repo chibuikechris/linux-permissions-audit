@@ -14,8 +14,6 @@ This project aims to examine existing permission on a file system, determine if 
 # Learning Point
 
 # Check file and directory details
-## screenshot
-![Linuxhots/ls-l.png
 - images/ls-l.png
 # Describe the permissions string
 - images/ls-la.png
