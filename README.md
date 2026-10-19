@@ -18,8 +18,9 @@ This project aims to examine existing permission on a file system, determine if 
 # Describe the permissions string
 - images/ls-la.png
 # Change file permissions
-- images/chmod g-r project_m
-- images/chmod o-m project_k
-- images/chmod g-x drafts
+- images/chmod g-r project_m.png
+- images/chmod o-m project_k.png
+- images/chmod g-x drafts.png
 # Change file permissions on a hidden file
-- images/chmod u-w, g-w, g+w project_x
+- images/chmod u-w, g-w, g+w project_x.png
+
