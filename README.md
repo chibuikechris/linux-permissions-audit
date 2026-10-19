@@ -1,6 +1,6 @@
 # Using linux command to manage file permission
 A cybersecurity project demonstrating Linux file permission management with the use of linux command
-# Overview
+## Overview
 This project aims to examine existing permission on a file system, determine if the permission match the authorization that should be given and to modify the permission to authorize the appropriate users and remove unauthorized access. It demonstrates how a file system can be reviewed to determine if the existing permission matches the authorization that should be given, to modify the permission to authorize the appropriate users and remove unauthorized access. It forms part of my learning on Linux command line, also know as bash.
 # Skills Demonstrated
 1. Checking file and directory details
